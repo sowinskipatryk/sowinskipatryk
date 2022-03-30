@@ -1,9 +1,10 @@
-<h3>Hello 👋, I'm Patryk from Poland</h3>
-<h5>🔭 A Project Engineer and Python enthusiast</h5>
+<h2>Hello 👋, I'm Patryk</h2>
+<h5>🔭 I am a Project Engineer and Python enthusiast from Poland</h5>
 <h5>📄 I have a Master's Degree in Power Engineering</h5>
-<h5>📝 I am passionate about programming and enjoy spending long hours in front of the computer writing code</h5>
-<h5>🌱 I've recently been learning the Django / Django REST Framework, as well as the NEAT genetic algorithm</h5>
-<h5>⚡ When I'm logged off, I spend my free time playing football and educating myself in the areas of finance and psychology</h5>
+<h5>👨‍💻 I am passionate about programming and enjoy spending long hours in front of the computer writing code</h5>
+<h5>🌱 I have recently been learning the Django / Django REST Framework, as well as the NEAT genetic algorithm</h5>
+<h5>📝 I also have quite a long list of technologies to learn next</h5>
+<h5>⚡ When I am logged off, I spend my free time playing football and educating myself in the areas of finance and psychology</h5>
 
 <br>
 <h4>:hammer_and_wrench: My technology stack :</h4>
