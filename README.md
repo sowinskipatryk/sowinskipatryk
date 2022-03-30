@@ -1,4 +1,4 @@
-<h2>Hello 👋, I'm Patryk</h2>
+<h2>Hello 👋, my name is Patryk</h2>
 <h5>🔭 I am a Project Engineer and Python enthusiast from Poland</h5>
 <h5>📄 I have a Master's Degree in Power Engineering</h5>
 <h5>👨‍💻 I am passionate about programming and enjoy spending long hours in front of the computer writing code</h5>
@@ -24,4 +24,4 @@
  
 </div><br><br><br>
 
-You can find me on: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patryk-sowi%C5%84ski-0a5631197/)
+You can find me here: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patryk-sowi%C5%84ski-0a5631197/)
