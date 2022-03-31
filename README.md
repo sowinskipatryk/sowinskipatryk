@@ -3,7 +3,7 @@
 <h5>📄 I have a Master's Degree in Power Engineering</h5>
 <h5>👨‍💻 I am passionate about programming and enjoy spending long hours in front of the computer writing code</h5>
 <h5>🌱 I have recently been learning the Django / Django REST Framework, as well as the NEAT genetic algorithm</h5>
-<h5>📝 I also have quite a long list of technologies to learn next</h5>
+<h5>📝 I also have quite a long list of technologies that I am willing to learn next</h5>
 <h5>⚡ When I am logged off, I spend my free time playing football and educating myself in the areas of finance and psychology</h5>
 
 <br>
