@@ -9,7 +9,7 @@ About me:
 <h5>⚡ When logged off, spending time playing football and learning in the areas of finance and psychology</h5>
 
 <br>
-<h4>:hammer_and_wrench: My technology stack :</h4>
+<h4>:hammer_and_wrench: My technology stack: </h4>
 
 <div>
 <br>
