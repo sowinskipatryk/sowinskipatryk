@@ -1,11 +1,11 @@
-<h2>Hello 👋, My name is Patryk</h2>
+<h2>Welcome to my GitHub page 👋</h2>
 <br>
 About me:
-<h5>🔭 Project Engineer and Python enthusiast from Poland</h5>
+<h5>🔭 Project Engineer and programming enthusiast from Poland</h5>
 <h5>📄 Master's Degree in Power Engineering</h5>
-<h5>👨‍💻 Passionate about programming - spending most of free time writing code and enjoying it</h5>
-<h5>🌱 Recently learning to develop applications in Kotlin</h5>
-<h5>📝 Looking forward to learn JavaScript and master Django</h5>
+<h5>👨‍💻 Passionate about coding - spending most of free time writing code and enjoying it</h5>
+<h5>🌱 Recently learning to develop web applications with Django</h5>
+<h5>📝 Looking forward to master JavaScript</h5>
 <h5>⚡ When logged off, spending time playing football and learning in the areas of finance and psychology</h5>
 
 <br>
@@ -28,6 +28,9 @@ About me:
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg"  title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg"  title="PuTTY" alt="PuTTY" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"  title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="Bootstrap" alt="SQLite" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg"  title="Django" alt="SQLite" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="JavaScript" alt="SQLite" width="40" height="40"/>&nbsp;
 </div><br><br><br>
 
-You can find me here:   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patryk-sowi%C5%84ski-0a5631197/)
+You can find me here:    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patryk-sowi%C5%84ski-0a5631197/)
