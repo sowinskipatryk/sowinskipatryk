@@ -1,16 +1,16 @@
 <h2>Welcome to my GitHub page 👋</h2>
+
 <br>
 <h3>About me:</h3>
-<h5>🔭 Project Engineer and programming enthusiast from Poland
-<h5>📄 Master's Degree in Power Engineering</h5>
-<h5>👨‍💻 Passionate about coding - spending most of free time writing code and enjoying it</h5>
-<h5>🌱 Recently learning to develop web applications with Django</h5>
-<h5>📝 Looking forward to master JavaScript</h5>
-<h5>⚡ When logged off, spending time playing football and learning in the areas of finance and psychology</h5>
+<p>🔭 Project Engineer and programming enthusiast from Poland</p>
+<p>📄 Master's Degree in Power Engineering</p>
+<p>👨‍💻 Passionate about coding - spending most of free time writing code and enjoying it</p>
+<p>🌱 Recently learning to develop web applications with Django</p>
+<p>📝 Looking forward to master JavaScript</p>
+<p>⚡ When logged off, spending time playing football and learning in the areas of finance and psychology</p>
 
 <br>
 <h3>:hammer_and_wrench: My tech stack: </h3>
-
 <div>
 <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -29,31 +29,32 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-plain-wordmark.svg"  title="RedHat" alt="RedHat" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"  title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"  title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-</div><br><br>
+</div>
+<br><br>
 
 <h3>💡 Featured projects: </h3>
-
-<h4>Keyper - Password Manager App for Android [Kotlin/Java]</h4>
-Mobile application designed to store user passwords.
-<br><br>
+<ul>
+<li><h4>Keyper - Password Manager App for Android [Kotlin/Java]</h4></li>
+<p>Mobile application designed to store user passwords.</p>
+<br>
 <video src="https://user-images.githubusercontent.com/91700001/176556986-1ffe7a66-4a87-47cf-8b80-8f138fc63572.mp4" data-canonical-src="https://user-images.githubusercontent.com/91700001/176556986-1ffe7a66-4a87-47cf-8b80-8f138fc63572.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;"></video>
 <h5>Link: https://github.com/sowinskipatryk/Pass-Keeper-App</h5>
 <br>
-<h4>Movie Recommendation App [Python/ML/DS]</h4>
-The programme aimed to recommend films to the user using three different techniques - memory/model based collaborative filtering and content filtering.
-<br><br>
+<li><h4>Movie Recommendation App [Python/ML/DS]</h4></li>
+<p>The programme aimed to recommend films to the user using three different techniques - memory/model based collaborative filtering and content filtering.</p>
+<br>
 <image src="https://github.com/sowinskipatryk/Movie-Recommendation-App/blob/master/showcase/model_based_result.png" alt="MovieRecommendationApp">
 <h5>Link: https://github.com/sowinskipatryk/Movie-Recommendation-App</h5>
 <br>
-<h4>Battleship [Python/OOP]</h4>
-My attempt to recreate the classic game using both functional programming (CLI version) and object-oriented programming (GUI version).
-<br><br>
+<li><h4>Battleship [Python/OOP]</h4></li>
+<p>My attempt to recreate the classic game using both functional programming (CLI version) and object-oriented programming (GUI version).</p>
+<br>
 <image src="https://github.com/sowinskipatryk/Battleship/blob/master/showcase.gif" height=350 width=500 alt="Battleship">
 <h5>Link: https://github.com/sowinskipatryk/Battleship</h5>
 <br>
-<h4>Monitor Manago - The Windows System Tray Monitor Manager [Python]</h4>
-Purpose-built application to manage two monitors settings (changing primary monitor, resolution, frequency etc.) from the system tray.
-<br><br>
+<li><h4>Monitor Manago - The Windows System Tray Monitor Manager [Python]</h4></li>
+<p>Purpose-built application to manage two monitors settings (changing primary monitor, resolution, frequency etc.) from the system tray.</p>
+<br>
 <img src="https://github.com/sowinskipatryk/Monitor-Manago/raw/main/screens/showcase.gif" alt="MonitorManago">
 <h5>Link: https://github.com/sowinskipatryk/Monitor-Manago</h5>
 
