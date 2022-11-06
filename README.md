@@ -5,8 +5,8 @@
 <p>🔭 Project Engineer and programming enthusiast from Poland</p>
 <p>📄 Master's Degree in Power Engineering</p>
 <p>👨‍💻 Passionate about coding - spending most of free time writing code and enjoying it</p>
-<p>🌱 Recently learning to develop web applications with Django</p>
-<p>📝 Looking forward to master JavaScript</p>
+<p>🌱 Currently into web applications with Django</p>
+<p>📝 Next education steps - TypeScript and React</p>
 <p>⚡ When logged off, spending time playing football and learning in the areas of finance and psychology</p>
 
 <br>
