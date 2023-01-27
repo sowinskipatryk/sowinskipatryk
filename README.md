@@ -41,8 +41,14 @@
 <video src="https://user-images.githubusercontent.com/91700001/176556986-1ffe7a66-4a87-47cf-8b80-8f138fc63572.mp4" data-canonical-src="https://user-images.githubusercontent.com/91700001/176556986-1ffe7a66-4a87-47cf-8b80-8f138fc63572.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;"></video>
 <h5>Link: https://github.com/sowinskipatryk/Pass-Keeper-App</h5>
 <br>
+<li><h4>World Cup Results Tracker [Python/ML/DS]</h4></li>
+<p>The website allows user to fill the database with results to keep track of current and coming stages of the tournament.</p>
+<br>
+<image src="https://user-images.githubusercontent.com/91700001/215223240-07d41208-ff81-4d00-b8dc-1c7293a2417f.png" alt="WorldCupResultsTracker">
+<h5>Link: https://github.com/sowinskipatryk/World-Cup-Results-Tracker-Django</h5>
+<br>
 <li><h4>Movie Recommendation App [Python/ML/DS]</h4></li>
-<p>The programme aimed to recommend films to the user using three different techniques - memory/model based collaborative filtering and content filtering.</p>
+<p>The program is aimed to recommend films to the user using three different techniques - memory/model based collaborative filtering and content filtering.</p>
 <br>
 <image src="https://github.com/sowinskipatryk/Movie-Recommendation-App/blob/master/showcase/model_based_result.png" alt="MovieRecommendationApp">
 <h5>Link: https://github.com/sowinskipatryk/Movie-Recommendation-App</h5>
