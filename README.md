@@ -5,8 +5,8 @@
 <p>🔭 Project Engineer and programming enthusiast from Poland</p>
 <p>📄 Master's Degree in Power Engineering</p>
 <p>👨‍💻 Passionate about coding - spending most of free time writing code and enjoying it</p>
-<p>🌱 Currently into web applications with Django</p>
-<p>📝 Next education steps - TypeScript and React</p>
+<p>🌱 Currently into web applications with Django, React and Tensorflow</p>
+<p>📝 Next education steps - TypeScript</p>
 <p>⚡ When logged off, spending time playing football and learning in the areas of finance and psychology</p>
 
 <br>
@@ -42,7 +42,7 @@
 <h5>Link: https://github.com/sowinskipatryk/Pass-Keeper-App</h5>
 <br>
 <li><h4>World Cup Results Tracker [Python/ML/DS]</h4></li>
-<p>The website allows user to fill the database with results to keep track of current and coming stages of the tournament.</p>
+<p>The website allows user to fill the form with results stored in the database to keep track of current and coming stages of the tournament.</p>
 <br>
 <image src="https://user-images.githubusercontent.com/91700001/215223240-07d41208-ff81-4d00-b8dc-1c7293a2417f.png" alt="WorldCupResultsTracker">
 <h5>Link: https://github.com/sowinskipatryk/World-Cup-Results-Tracker-Django</h5>
@@ -60,7 +60,7 @@
 <h5>Link: https://github.com/sowinskipatryk/Battleship</h5>
 <br>
 <li><h4>Monitor Manago - The Windows System Tray Monitor Manager [Python]</h4></li>
-<p>Purpose-built application to manage two monitors settings (changing primary monitor, resolution, frequency etc.) from the system tray.</p>
+<p>My daily use application to manage two monitors settings (changing primary monitor, resolution, frequency etc.) from the system tray.</p>
 <br>
 <img src="https://github.com/sowinskipatryk/Monitor-Manago/raw/main/screens/showcase.gif" alt="MonitorManago">
 <h5>Link: https://github.com/sowinskipatryk/Monitor-Manago</h5>
