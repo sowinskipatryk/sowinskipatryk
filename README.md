@@ -5,7 +5,7 @@
 <p>🔭 Project Engineer and programming enthusiast from Poland</p>
 <p>📄 Master's Degree in Power Engineering</p>
 <p>👨‍💻 Passionate about coding - spending most of free time writing code and enjoying it</p>
-<p>🌱 Currently into web applications with Django, React and Tensorflow</p>
+<p>🌱 Currently into web applications with Django and React</p>
 <p>📝 Next education steps - TypeScript</p>
 <p>⚡ When logged off, spending time playing football and learning in the areas of finance and psychology</p>
 
@@ -41,26 +41,32 @@
 <video src="https://user-images.githubusercontent.com/91700001/176556986-1ffe7a66-4a87-47cf-8b80-8f138fc63572.mp4" data-canonical-src="https://user-images.githubusercontent.com/91700001/176556986-1ffe7a66-4a87-47cf-8b80-8f138fc63572.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;"></video>
 <h5>Link: https://github.com/sowinskipatryk/Pass-Keeper-App</h5>
 <br>
-<li><h4>World Cup Results Tracker [Python/ML/DS]</h4></li>
-<p>The website allows user to fill the form with results stored in the database to keep track of current and coming stages of the tournament.</p>
+<li><h4>Digit Recognition App [Django/React/Tensorflow]</h4></li>
+<p>App aimed to identify the written digit and outputs the certainty of this prediction.</p>
+<br>
+<video src="https://user-images.githubusercontent.com/91700001/218334455-9fe0d182-3f51-4656-8f8e-309011afdc98.mp4" data-canonical-src="https://user-images.githubusercontent.com/91700001/218334455-9fe0d182-3f51-4656-8f8e-309011afdc98.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;"></video>
+<h5>Link: https://github.com/sowinskipatryk/Digit-Recognition</h5>
+<br>
+<li><h4>World Cup Results Tracker [Django]</h4></li>
+<p>Website that allows user to fill the form with results stored in the database to keep track of current and coming stages of the tournament.</p>
 <br>
 <image src="https://user-images.githubusercontent.com/91700001/215223240-07d41208-ff81-4d00-b8dc-1c7293a2417f.png" alt="WorldCupResultsTracker">
 <h5>Link: https://github.com/sowinskipatryk/World-Cup-Results-Tracker-Django</h5>
 <br>
 <li><h4>Movie Recommendation App [Python/ML/DS]</h4></li>
-<p>The program is aimed to recommend films to the user using three different techniques - memory/model based collaborative filtering and content filtering.</p>
+<p>Program aimed to recommend films to the user using three different techniques - memory/model based collaborative filtering and content filtering.</p>
 <br>
 <image src="https://github.com/sowinskipatryk/Movie-Recommendation-App/blob/master/showcase/model_based_result.png" alt="MovieRecommendationApp">
 <h5>Link: https://github.com/sowinskipatryk/Movie-Recommendation-App</h5>
 <br>
 <li><h4>Battleship [Python/OOP]</h4></li>
-<p>My attempt to recreate the classic game using both functional programming (CLI version) and object-oriented programming (GUI version).</p>
+<p>Recreated classic game using both functional programming (CLI version) and object-oriented programming (GUI version).</p>
 <br>
 <image src="https://github.com/sowinskipatryk/Battleship/blob/master/showcase.gif" height=350 width=500 alt="Battleship">
 <h5>Link: https://github.com/sowinskipatryk/Battleship</h5>
 <br>
 <li><h4>Monitor Manago - The Windows System Tray Monitor Manager [Python]</h4></li>
-<p>My daily use application to manage two monitors settings (changing primary monitor, resolution, frequency etc.) from the system tray.</p>
+<p>Personal daily use application to manage the two monitor setup (changing primary monitor, resolution, frequency etc.) from the system tray.</p>
 <br>
 <img src="https://github.com/sowinskipatryk/Monitor-Manago/raw/main/screens/showcase.gif" alt="MonitorManago">
 <h5>Link: https://github.com/sowinskipatryk/Monitor-Manago</h5>
