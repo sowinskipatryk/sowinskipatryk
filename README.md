@@ -47,6 +47,12 @@
 <video src="https://user-images.githubusercontent.com/91700001/218334455-9fe0d182-3f51-4656-8f8e-309011afdc98.mp4" data-canonical-src="https://user-images.githubusercontent.com/91700001/218334455-9fe0d182-3f51-4656-8f8e-309011afdc98.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;"></video>
 <h5>Link: https://github.com/sowinskipatryk/Digit-Recognition</h5>
 <br>
+<li><h4>Betting Site [Django/Celery/RabbitMQ]</h4></li>
+<p>A betting site simulator for British Premier League where user has the ability to check the match results, league table, place bets and compete against others.</p>
+<br>
+<image src="https://user-images.githubusercontent.com/91700001/220476595-646e7642-97ef-4f3f-a43f-8ae4ce34cc68.PNG" alt="BettingWebsite">
+<h5>Link: https://github.com/sowinskipatryk/Betting-Site-Django</h5>
+<br>
 <li><h4>World Cup Results Tracker [Django]</h4></li>
 <p>Website that allows user to fill the form with results stored in the database to keep track of current and coming stages of the tournament.</p>
 <br>
