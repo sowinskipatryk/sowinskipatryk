@@ -49,6 +49,13 @@
 <video src="https://user-images.githubusercontent.com/91700001/176556986-1ffe7a66-4a87-47cf-8b80-8f138fc63572.mp4" data-canonical-src="https://user-images.githubusercontent.com/91700001/176556986-1ffe7a66-4a87-47cf-8b80-8f138fc63572.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;"></video>
 <h5>Link: https://github.com/sowinskipatryk/Pass-Keeper-App</h5>
 <br>
+<li><h4>Tic Tac Toe [Flask | SocketIO | PostgresQL | Docker Compose]</h4></li>
+<p>Recreation of the classic game of Tic Tac Toe using lightweight Flask framework, PostgreSQL database to store game statistics, SocketIO for two-way connection between the server and the client, Docker Compose and Vanilla JS.
+The opponent's moves are implemented using the minimax algorithm and depth constant to manipulate the cleverness of the opponent from completely random to "knows what you are thinking".</p>
+<br>
+<video src="https://user-images.githubusercontent.com/91700001/247755797-5c51e546-1c40-48de-b78f-553c0acf03c1.webm" data-canonical-src="https://user-images.githubusercontent.com/91700001/247755797-5c51e546-1c40-48de-b78f-553c0acf03c1.webm" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px"></video>
+<h5>Link: https://github.com/sowinskipatryk/tic-tac-toe</h5>
+<br>
 <li><h4>Digit Recognition App [Django/React/Tensorflow]</h4></li>
 <p>App aimed to identify the written digit and outputs the certainty of this prediction.</p>
 <br>
