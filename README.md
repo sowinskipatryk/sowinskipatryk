@@ -2,11 +2,11 @@
 
 <br>
 <h3>About me:</h3>
-<p>🔭 Project Engineer / Programmer from Poland</p>
+<p>🔭 Project Engineer / Backend Developer from Poland</p>
 <p>📄 Master's Degree in Power Engineering</p>
-<p>👨‍💻 Passionate about coding - spending most time writing code and enjoying it</p>
-<p>🌱 Currently into web applications using Django and React</p>
-<p>⚡ When logged off, spending time playing football and learning in the areas of finance and psychology</p>
+<p>👨‍💻 Passionate about coding</p>
+<p>🌱 Development towards good practices and the use of design patterns</p>
+<p>⚡ When logged off, spending time playing football and studying in the areas of finance and psychology</p>
 
 <br>
 <h3>:hammer_and_wrench: Technologies: </h3>
@@ -43,51 +43,59 @@
 
 <h3>💡 Featured projects: </h3>
 <ul>
-<li><h4>Keyper - Password Manager App for Android [Kotlin/Java]</h4></li>
-<p>Mobile application designed to store user passwords.</p>
+  
+<li><h4>Seating Arrangement App [Django + Channels | React | WebSockets | Redis | ML]</h4></li>
+<p>Application created to determine optimal seating of guests at the wedding.</p>
+<br>
+<video src="https://github.com/sowinskipatryk/react-seating-arrangement/assets/91700001/6d7f23b6-1758-4e2e-bf4f-a5da405e0d74" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;"></video>
+<h5>Link: https://github.com/sowinskipatryk/react-seating-arrangement</h5>
+<br>
+
+  
+<li><h4>Keyper - Password Manager App for Android [Kotlin | Java]</h4></li>
+<p>Mobile application intended to store user passwords.</p>
 <br>
 <video src="https://user-images.githubusercontent.com/91700001/176556986-1ffe7a66-4a87-47cf-8b80-8f138fc63572.mp4" data-canonical-src="https://user-images.githubusercontent.com/91700001/176556986-1ffe7a66-4a87-47cf-8b80-8f138fc63572.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;"></video>
 <h5>Link: https://github.com/sowinskipatryk/Pass-Keeper-App</h5>
 <br>
-<li><h4>Tic Tac Toe [Flask | SocketIO | PostgresQL | Docker Compose]</h4></li>
-<p>Recreation of the classic game of Tic Tac Toe using lightweight Flask framework, PostgreSQL database to store game statistics, SocketIO for two-way connection between the server and the client, Docker Compose and Vanilla JS.
-The opponent's moves are implemented using the minimax algorithm and depth constant to manipulate the cleverness of the opponent from completely random to "knows what you are thinking".</p>
+<li><h4>Tic Tac Toe [Flask | SocketIO | VanillaJS | PostgresQL | Docker Compose]</h4></li>
+<p>Recreation of the classic game of Tic Tac Toe with highscores and credits.</p>
 <br>
 <video src="https://user-images.githubusercontent.com/91700001/247755797-5c51e546-1c40-48de-b78f-553c0acf03c1.webm" data-canonical-src="https://user-images.githubusercontent.com/91700001/247755797-5c51e546-1c40-48de-b78f-553c0acf03c1.webm" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px"></video>
 <h5>Link: https://github.com/sowinskipatryk/tic-tac-toe</h5>
 <br>
-<li><h4>Digit Recognition App [Django/React/Tensorflow]</h4></li>
-<p>App aimed to identify the written digit and outputs the certainty of this prediction.</p>
+<li><h4>Digit Recognition App [Django | React | Tensorflow]</h4></li>
+<p>Web application aimed to identify the written digit and determine the confidence of this prediction.</p>
 <br>
 <video src="https://user-images.githubusercontent.com/91700001/218334455-9fe0d182-3f51-4656-8f8e-309011afdc98.mp4" data-canonical-src="https://user-images.githubusercontent.com/91700001/218334455-9fe0d182-3f51-4656-8f8e-309011afdc98.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;"></video>
 <h5>Link: https://github.com/sowinskipatryk/Digit-Recognition</h5>
 <br>
-<li><h4>Betting Site [Django/Celery/RabbitMQ]</h4></li>
-<p>A betting site simulator for British Premier League where user has the ability to check the match results, league table, place bets and compete against others.</p>
+<li><h4>Betting Site [Django | Celery | RabbitMQ]</h4></li>
+<p>Betting simulator website for British Premier League matches where user has the ability to check the match results, league table, place bets and compete against others.</p>
 <br>
 <image src="https://user-images.githubusercontent.com/91700001/220476595-646e7642-97ef-4f3f-a43f-8ae4ce34cc68.PNG" alt="BettingWebsite">
 <h5>Link: https://github.com/sowinskipatryk/Betting-Site-Django</h5>
 <br>
 <li><h4>World Cup Results Tracker [Django]</h4></li>
-<p>Website that allows user to fill the form with results stored in the database to keep track of current and coming stages of the tournament.</p>
+<p>Tournament tracker website to fill the form with match results to keep track of current and coming stages of the tournament.</p>
 <br>
 <image src="https://user-images.githubusercontent.com/91700001/215223240-07d41208-ff81-4d00-b8dc-1c7293a2417f.png" alt="WorldCupResultsTracker">
 <h5>Link: https://github.com/sowinskipatryk/World-Cup-Results-Tracker-Django</h5>
 <br>
-<li><h4>Movie Recommendation App [Python/ML/DS]</h4></li>
-<p>Program aimed to recommend films to the user using three different techniques - memory/model based collaborative filtering and content filtering.</p>
+<li><h4>Movie Recommendation App [Python | ML | DS]</h4></li>
+<p>An application designed to suggest films to the user using three techniques used to build hybrid recommendation engines.</p>
 <br>
 <image src="https://github.com/sowinskipatryk/Movie-Recommendation-App/blob/master/showcase/model_based_result.png" alt="MovieRecommendationApp">
 <h5>Link: https://github.com/sowinskipatryk/Movie-Recommendation-App</h5>
 <br>
-<li><h4>Battleship [Python/OOP]</h4></li>
-<p>Recreated classic game using both functional programming (CLI version) and object-oriented programming (GUI version).</p>
+<li><h4>Battleship [Python | OOP]</h4></li>
+<p>Simple implementation of the famous Battleship game.</p>
 <br>
 <image src="https://github.com/sowinskipatryk/Battleship/blob/master/showcase.gif" height=350 width=500 alt="Battleship">
 <h5>Link: https://github.com/sowinskipatryk/Battleship</h5>
 <br>
 <li><h4>Monitor Manago - The Windows System Tray Monitor Manager [Python]</h4></li>
-<p>Personal daily use application to manage the two monitor setup (changing primary monitor, resolution, frequency etc.) from the system tray.</p>
+<p>Personal daily use application to manage the two monitor setup from the system tray (changing primary monitor, resolution, frequency and more). </p>
 <br>
 <img src="https://github.com/sowinskipatryk/Monitor-Manago/raw/main/screens/showcase.gif" alt="MonitorManago">
 <h5>Link: https://github.com/sowinskipatryk/Monitor-Manago</h5>
