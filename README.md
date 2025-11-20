@@ -5,7 +5,7 @@
 <p>🔭 Project Engineer / Backend Developer from Poland</p>
 <p>📄 Master's Degree in Power Engineering</p>
 <p>👨‍💻 Passionate about coding</p>
-<p>🌱 Development towards good practices and the use of design patterns</p>
+<p>🌱 Development towards Machine Learning</p>
 <p>⚡ When logged off, spending time playing football and studying in the areas of finance and psychology</p>
 
 <br>
